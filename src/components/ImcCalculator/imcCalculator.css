@@ -17,7 +17,7 @@
 
 h1 {
     color: #E85B81;
-    margin-bottom: 16px;
+    margin: 16px 0;
 }
 
 .box {
@@ -123,7 +123,11 @@ input {
         width: 80%;
     }   
 
-    .text {
+    .text, .result {
         width: 80%;
+    }
+
+    .imc {
+        margin-bottom: 16px;
     }
 }
