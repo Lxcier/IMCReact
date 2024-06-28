@@ -108,3 +108,9 @@ input {
         width: 90%;
     }
 }
+
+@media screen and (max-width: 640px) {
+    .container {
+        width: 60%;
+    }
+}
