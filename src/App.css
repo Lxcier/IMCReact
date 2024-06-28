@@ -1,0 +1,13 @@
+:root {
+    font-family: 'Roboto', sans-serif;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    height: 100vh;
+    overflow-y: hidden;
+    background: #F4F4F4;
+}
