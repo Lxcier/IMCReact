@@ -111,7 +111,7 @@ input {
 
 @media screen and (max-width: 640px) {
     .container {
-        width: 60%;
+        width: 80%;
     }
 
     .box {
