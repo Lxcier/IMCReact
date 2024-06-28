@@ -17,6 +17,7 @@
 
 h1 {
     color: #E85B81;
+    margin-bottom: 16px;
 }
 
 .box {
@@ -110,7 +111,7 @@ input {
 
 @media screen and (max-width: 640px) {
     .container {
-        width: 98%;
+        width: 100%;
         margin: 0 auto;
     }
 
@@ -120,5 +121,9 @@ input {
     
     .button {
         width: 80%;
-    }    
+    }   
+
+    .text {
+        width: 80%;
+    }
 }
